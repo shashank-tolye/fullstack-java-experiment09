@@ -1,0 +1,18 @@
+# Spring Boot / Java
+studentbackend/target/
+*.class
+*.log
+
+# React / Node
+studentfrontend/node_modules/
+studentfrontend/build/
+studentfrontend/dist/
+
+# VS Code
+.vscode/
+
+# Operating System
+.DS_Store
+Thumbs.db
+*.pdf
+*.docx
